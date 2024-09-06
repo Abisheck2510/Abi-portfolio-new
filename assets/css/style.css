@@ -555,15 +555,23 @@ footer{
 
 
 /* ----- MEDIA QUERY == 1024px / RESPONSIVE ----- */
-@media only screen and (max-width: 1024px){
-    .featured-text{
-        padding: 0;
+@media only screen and (max-width: 1200px) {
+    nav {
+        padding-inline: 5vw;
     }
-    .image, .image img{
-        width: 320px;
-        height: 320px;
+    .featured-text {
+        width: 100%;
+        padding-left: 10px;
+    }
+    .featured-image {
+        width: 100%;
+    }
+    .image, .image img {
+        width: 300px;
+        height: 300px;
     }
 }
+
 
 /* ----- MEDIA QUERY == 900px / RESPONSIVE ----- */
 @media only screen and (max-width: 900px) {
@@ -646,7 +654,7 @@ footer{
 
 /* ----- MEDIA QUERY == 540px / RESPONSIVE ----- */
 
-@media only screen and (max-width: 540px){
+@media only screen and (max-width: 480px){
     .featured-name{
         font-size: 40px;
     }
