@@ -667,4 +667,7 @@ footer{
     .input-field{
         width: 100%;
     }
+    .about-info, .contact-info{
+        width: 100%;
+    }
 }
