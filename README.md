@@ -18,8 +18,8 @@ This is my basic personal portfolio website built using HTML, CSS,Bootstrap and 
 
 ## Getting Started
 
-To view this project,You can click the link given below.
-To view this project locally,you can click the repository and open 'index.html' in your web browser.
+- To view this project,You can click the link given below.
+- To view this project locally,you can click the repository and open 'index.html' in your web browser.
 
 ```bash
 https://abi-portfolio-new.vercel.app/
