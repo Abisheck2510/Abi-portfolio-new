@@ -668,6 +668,11 @@ footer{
         width: 100%;
     }
     .about-info, .contact-info{
-        width: 100%;
+        width: 80%;
+    }
+    .image img{
+        width: 150px;
+        height: 120px;
+        
     }
 }
