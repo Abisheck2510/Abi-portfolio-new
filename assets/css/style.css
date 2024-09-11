@@ -510,6 +510,10 @@ textarea{
     background: var(--second-color);
     color: var(--color-white);
 }
+.form-button>.btn a {
+    text-decoration: none;
+    color: white;
+}
 .form-button>.btn:hover{
     background: #00B5E7;
 }
