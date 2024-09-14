@@ -24,6 +24,6 @@ This is my basic personal portfolio website built using HTML, CSS,Bootstrap and 
 ```bash
 https://abi-portfolio-new.vercel.app/
 
-git clone https://github.com/Sakthivelmahalingam/My-personal-portfolio.git
+git clone https://github.com/Abisheck2510/Abi-portfolio-new
 cd Abi-portfolio-new
-open main.html
+open main.html     
